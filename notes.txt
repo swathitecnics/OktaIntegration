@@ -1,0 +1,3 @@
+Debug on OIDC : OIDCdebugger.com
+Debug on OAuth : OAuthdebugger.com
+JSON Web Token(JWT) decoder : jwt.io
